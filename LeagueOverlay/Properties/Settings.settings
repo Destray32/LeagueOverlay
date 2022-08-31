@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LeagueOverlay.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BSFrog" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad8</Value>
+    </Setting>
+    <Setting Name="BSWolfs" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad7</Value>
+    </Setting>
+    <Setting Name="BSRaptors" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad4</Value>
+    </Setting>
+    <Setting Name="BSRocks" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad1</Value>
+    </Setting>
+    <Setting Name="TSFrog" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad2</Value>
+    </Setting>
+    <Setting Name="TSWolfs" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad3</Value>
+    </Setting>
+    <Setting Name="TSRaptors" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad6</Value>
+    </Setting>
+    <Setting Name="TSRocks" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">NumPad9</Value>
+    </Setting>
+    <Setting Name="BSFrogCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="BSWolfsCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="BSRaptorsCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="BSRocksCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="TSFrogCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="TSWolfsCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="TSRaptorsCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="TSRocksCoords" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

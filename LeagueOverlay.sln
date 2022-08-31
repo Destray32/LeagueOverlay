@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueOverlay", "LeagueOverlay\LeagueOverlay.csproj", "{09F53E95-8771-4853-8D16-AF6AC2256376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F53E95-8771-4853-8D16-AF6AC2256376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F53E95-8771-4853-8D16-AF6AC2256376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F53E95-8771-4853-8D16-AF6AC2256376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F53E95-8771-4853-8D16-AF6AC2256376}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374E2954-5D63-420E-BC0E-FC00D2E4F1EE}
+	EndGlobalSection
+EndGlobal
