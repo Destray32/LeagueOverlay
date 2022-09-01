@@ -7,6 +7,13 @@ League Overlay
 
 <sub>_Contatct E-mail: yarsted16@gmail.com_</sub>
 
+## Word of introduction
+
+Even if I think it's safe for use I will remind you that **I take no responisbility** if software will became detected over time. 
+<br>**_FOR ADDITIONAL SAFETY:_**
+  * _Change the name of executable_
+  * _Track changes in Riot term of serivces_
+
 ### What is it?
 
 The aim of the project was to make **simple overlay** as counteraction for possible bans linked with porofessor camp timers revealing.
