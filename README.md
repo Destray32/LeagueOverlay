@@ -2,7 +2,7 @@ League Overlay
 =====
 
 <p align="center">
-    ![Logo](./LeagueOverlayTransparent.PNG)
+    
 </p>
 
 <sub>_Contatct E-mail: yarsted16@gmail.com_</sub>
