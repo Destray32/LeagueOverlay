@@ -1,9 +1,7 @@
 League Overlay
 =====
 
-<p align="center">
     ![LeagueOverlayTransparent](https://user-images.githubusercontent.com/73259429/188216996-b93fc6f9-2753-41ad-b456-6ef7ed5d69f5.png)
-</p>
 
 <sub>_Contatct E-mail: yarsted16@gmail.com_</sub>
 
