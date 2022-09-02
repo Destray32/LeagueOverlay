@@ -2,7 +2,7 @@ League Overlay
 =====
 
 <p align="center">
-    [<img align="center" width="300" height="300" src="https://i.imgur.com/587VNSF.png#gh-dark-mode-only">]
+    <img align="center" width="300" height="300" src="https://i.imgur.com/587VNSF.png#gh-dark-mode-only">
 </p>
 
 <sub>_Contatct E-mail: yarsted16@gmail.com_</sub>
